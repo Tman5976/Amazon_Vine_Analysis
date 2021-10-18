@@ -7,12 +7,18 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1
 
 ## Results
 ### Vine reviews vs. non-Vine reviews
+![Vine_Total_Reviews](https://user-images.githubusercontent.com/85756203/137772019-7a5cf395-2b6a-489a-83f1-19e5d2341d60.png)
+
 - 94 reviews came from Vine
 - 40,471 came from non-Vine reviews
 ### Number of 5-star reviews
+![Vine_5stars](https://user-images.githubusercontent.com/85756203/137772034-7bb73fe8-77a7-4e7b-9c2f-c8ba2ca8552d.png)
+
 - 48 Vine reviews gave 5-stars
 - 15,663 non-Vine gave 5-stars
 ### Percentage of 5-star reviews
+![Vine_5star%](https://user-images.githubusercontent.com/85756203/137772054-66cde5d2-ae2d-4a18-8c89-6924c6bd654f.png)
+
 - 51.06 percent of Vine reviewers gave 5-stars
 - 38.70 percent of non_Vine reviewers gave 5-stars
 
