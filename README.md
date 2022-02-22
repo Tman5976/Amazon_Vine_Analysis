@@ -1,7 +1,9 @@
 # Amazon_Vine_Analysis
 
 ## Overview
-This assignment was meant to test our ability to use Amazon RDS and PySpark to examine a dataset and determine any bias. For this assignment, I chose to examine video game data from the list of reviews dataset. The dataset was accessed from the following URL:
+This project showcased an ability to use Amazon RDS and PySpark to examine a dataset and determine any bias. The database contained a list of reviews of video games. It also listed whether the reviewer was a Vine subscriber or a guest user. For this project, I chose to examine whether any patterns existed between a Vine reviewer and a guest reviewer. 
+
+The dataset was accessed from the following URL:
 
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
 
